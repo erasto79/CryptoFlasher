@@ -10,13 +10,9 @@ Crypto Flasher® is a Bitcoin flashing software that lets users perform BTC and 
 When you gain app access, you'll have a limited spendable quota of either bitcoin or USDT, but you'll be responsible for your gas fee for the flashing transactions. You'll find a gas address in-app and the gas topup process is simple.
 Installation
 
-Android
-
-The latest android APK is available on the release page.
-
 PC
 
-Crypto Flasher® is available for Windows users. You can find the PC version on the releases page.
+Crypto Flasher® is available for Windows users only at this time. You can find the PC version on the releases page.
 
 Usage
 
